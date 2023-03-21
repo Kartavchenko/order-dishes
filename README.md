@@ -18,7 +18,7 @@ Used library for manage form [Redux-Form](https://redux-form.com/8.3.0/examples/
 
 ## Live page
 
-[https://kartavchenko.github.io/order-dishes/](https://goitacademy.github.io/react-homework-template).
+[https://kartavchenko.github.io/order-dishes/](https://kartavchenko.github.io/order-dishes/).
 
 ### Styling
 
