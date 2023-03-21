@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/order-dishes/static/css/main.e6c13ad2.css",
+    "main.js": "/order-dishes/static/js/main.606868df.js",
+    "static/js/787.2bdbf643.chunk.js": "/order-dishes/static/js/787.2bdbf643.chunk.js",
+    "index.html": "/order-dishes/index.html",
+    "main.e6c13ad2.css.map": "/order-dishes/static/css/main.e6c13ad2.css.map",
+    "main.606868df.js.map": "/order-dishes/static/js/main.606868df.js.map",
+    "787.2bdbf643.chunk.js.map": "/order-dishes/static/js/787.2bdbf643.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.606868df.js"
+  ]
+}
